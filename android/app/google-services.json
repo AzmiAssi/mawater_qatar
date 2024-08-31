@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791457656649",
+    "project_id": "mawaterqatar-17f8a",
+    "storage_bucket": "mawaterqatar-17f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791457656649:android:ab85a7a0db4175bee2b498",
+        "android_client_info": {
+          "package_name": "com.example.mawater_qatar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HD_VgXXVdulbbpvLscm2EFo8boDltws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
